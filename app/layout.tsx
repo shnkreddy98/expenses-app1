@@ -5,8 +5,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Next.js App",
-  description: "Built with Next.js, TypeScript, and Tailwind CSS",
+  title: "Expense Tracker - Manage Your Budget",
+  description: "Track your expenses, analyze spending patterns, and manage your budget efficiently",
 }
 
 export default function RootLayout({
